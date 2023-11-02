@@ -1,1 +1,33 @@
-/* Write your CSS here! */
+body {
+  margin: 8px;
+  background-color: rgb(240,240,240);
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  display:block
+}
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+#mainHeading {
+  font-size: 35px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+p.blurb {
+  text-align: center;
+  border: 3px solid rgb(80, 48, 48); 
+}
+
+#modelNumber{
+  text-align: center
+}
+
+.profileImage{
+  text-align: center
+}
