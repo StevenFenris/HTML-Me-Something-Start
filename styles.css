@@ -17,11 +17,18 @@ div {
   font-size: 35px;
   font-weight: normal;
   margin-top: 5px;
+  color: red;
 }
 
-p.blurb {
+p.testP {
   text-align: center;
   border: 3px solid rgb(80, 48, 48); 
+}
+
+p.funParagraph {
+  text-align: center;
+  color: green; 
+  border: 3px solid black;
 }
 
 #modelNumber{
